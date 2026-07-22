@@ -1,0 +1,3 @@
+base_web_url: "https://{tenant}.workflowpro.com"
+base_api_url: "https://api.staging.workflowpro.com"
+timeout_ms: 15000

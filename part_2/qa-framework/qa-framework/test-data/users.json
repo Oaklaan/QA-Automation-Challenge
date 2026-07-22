@@ -1,0 +1,12 @@
+{
+  "company1": {
+    "admin":    {"email": "admin@company1.com",    "password": "test-password"},
+    "manager":  {"email": "manager@company1.com",  "password": "test-password"},
+    "employee": {"email": "employee@company1.com", "password": "test-password"}
+  },
+  "company2": {
+    "admin":    {"email": "admin@company2.com",    "password": "test-password"},
+    "manager":  {"email": "manager@company2.com",  "password": "test-password"},
+    "employee": {"email": "employee@company2.com", "password": "test-password"}
+  }
+}
