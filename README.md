@@ -1,4 +1,4 @@
-# QA Automation Challenge!
+# QA Automation Challenge
 
 **Candidate:** Krushna Koshatwar  
 **Technology Stack:** Python, Pytest, Playwright, Requests, BrowserStack
