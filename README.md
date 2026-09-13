@@ -388,4 +388,5 @@ The implementation focuses on:
 - CI/CD readiness
 - Maintainable and reusable test design
 
-The framework is scalable and can be extended to support additional applications, environments, and business workflows with minimal changes.
+The framework is scalable and can be extended to support additional applications, environments, and business workflows with minimal changes. (applicable only to comapany requirements. do not take it as a project)
+
